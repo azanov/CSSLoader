@@ -13,7 +13,7 @@ We often use media queries to conditionally apply stylesheets, such as:
 <link rel="stylesheet" href="320.css" media="only screen and (min-width: 320px) and (max-width: 359px)">
 <link rel="stylesheet" href="360.css" media="only screen and (min-width: 360px) and (max-width: 383px)">
 ...
-<link rel="stylesheet" href="213.css" media="only screen and (min-width: 1280px)">
+<link rel="stylesheet" href="1280.css" media="only screen and (min-width: 1280px)">
 ```
 
 The problem
